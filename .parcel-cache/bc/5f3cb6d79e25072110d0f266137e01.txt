@@ -1,0 +1,14 @@
+13
+29C:\Users\Yang\Desktop\cv\dist132611419668471682 1
+35C:\Users\Yang\Desktop\cv\.gitignore132611418176806500 0
+28C:\Users\Yang\Desktop\cv\src132611419372282886 1
+47C:\Users\Yang\Desktop\cv\dist\index.bd78eeec.js132611327826964760 0
+52C:\Users\Yang\Desktop\cv\dist\index.a5a23e44.css.map132611419668446615 0
+38C:\Users\Yang\Desktop\cv\src\style.css132611418325120000 0
+39C:\Users\Yang\Desktop\cv\src\index.html132611419372290000 0
+36C:\Users\Yang\Desktop\cv\src\main.js132611415468701298 0
+48C:\Users\Yang\Desktop\cv\dist\index.a5a23e44.css132611419668331584 0
+51C:\Users\Yang\Desktop\cv\dist\index.bd78eeec.js.map132611327827044694 0
+40C:\Users\Yang\Desktop\cv\dist\index.html132611419668336322 0
+47C:\Users\Yang\Desktop\cv\dist\index.dc508c25.js132611419668376429 0
+51C:\Users\Yang\Desktop\cv\dist\index.dc508c25.js.map132611419668461655 0
